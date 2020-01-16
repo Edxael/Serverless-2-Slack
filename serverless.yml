@@ -1,0 +1,16 @@
+
+service: LogRocket2Slack
+provider:
+  name: aws
+  runtime: nodejs10.x
+
+functions:
+  logRock2Slack:
+    handler: handler.logRock2Slack
+    events:
+      - http:
+          method: get
+          path: logRock2Slack
+      
+plugins:
+  - serverless-offline
