@@ -10,3 +10,5 @@ https://github.com/marketplace/actions/github-action-for-serverless-framework
 Getting started with GitHub Actions
 https://help.github.com/en/actions/automating-your-workflow-with-github-actions
 
+Link with list of actions [MarketPlace]:
+https://github.com/marketplace?type=actions
