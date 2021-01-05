@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@slack/webhook": "^5.0.2",
-    "axios": "^0.19.1",
+    "axios": "^0.21.1",
     "dotenv": "^8.2.0",
     "logrocket": "^1.0.6"
   }
